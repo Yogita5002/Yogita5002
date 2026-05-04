@@ -19,4 +19,4 @@ I'm a developer with a focus on Java, Python and machine learning. Currently bui
 
 ## Connect with me
 
-[LinkedIn](www.linkedin.com/in/yogitayv) | [Email](yogitayv5002@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yogitayv/) | [Email](yogitayv5002@gmail.com)
