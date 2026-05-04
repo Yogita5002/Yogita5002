@@ -44,7 +44,7 @@ find a real problem → clean the data → build a model → question the output
 
 ### 📚 Currently learning
 
-- [ fill in — e.g. deep learning, system design, DSA prep ]
+- [ System design, DSA prep ]
 
 ---
 
