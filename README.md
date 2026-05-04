@@ -15,7 +15,7 @@ I'm a developer with a focus on Java, Python and machine learning. Currently bui
 
 ## Currently learning
 
-[Deep learning with TensorFlow,System design]
+[Deep learning with TensorFlow, System design]
 
 ## Connect with me
 
