@@ -8,7 +8,7 @@ CS Engineering student · 3rd year · building things with Python and ML
 
 ### 🧠 About me
 
-I'm a third-year CS student who got genuinely curious about machine learning — specifically what happens when you point models at messy, real-world behavioral data. My ML project predicts digital addiction risk in teenagers, which sounds heavy, but the interesting part was figuring out how to make the model actually useful, not just accurate on paper.
+I'm a third-year CS student who got genuinely curious about machine learning, specifically what happens when you point models at messy, real-world behavioral data. My ML project predicts digital addiction risk in teenagers, which sounds heavy, but the interesting part was figuring out how to make the model actually useful, not just accurate on paper.
 
 Still figuring out a lot. But I ship, I document, and I ask good questions.
 
