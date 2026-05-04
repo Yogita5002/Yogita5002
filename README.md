@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-I'm a third-year CS Engineering student who got genuinely curious about machine learning — specifically what happens when you point models at messy, real-world behavioral data.
+I'm a third-year CS Engineering student who got genuinely curious about machine learning - specifically what happens when you point models at messy, real-world behavioral data.
 
 - 🔭 Currently working on **ML models** that solve real behavioral problems
 - 🤖 Deep interest in **AI/ML** - classification, data preprocessing, and model evaluation
