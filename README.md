@@ -18,7 +18,7 @@
 I'm a third-year CS Engineering student who got genuinely curious about machine learning — specifically what happens when you point models at messy, real-world behavioral data.
 
 - 🔭 Currently working on **ML models** that solve real behavioral problems
-- 🤖 Deep interest in **AI/ML** — classification, data preprocessing, and model evaluation
+- 🤖 Deep interest in **AI/ML** - classification, data preprocessing, and model evaluation
 - 📊 I love turning raw, messy datasets into something that actually means something
 - 💡 Always asking: *is this model useful in the real world, or just accurate on paper?*
 - 🎯 Working toward roles where I can build things that matter
@@ -111,7 +111,7 @@ I start from the problem, not the algorithm. Getting a model to 90% accuracy is 
 
 ### 🤝 Let's Connect
 
-💬 *Always up to talk ML, swap project ideas, or just connect.*
+💬 *Always up to talk about project ideas, or just connect.*
 
 *Recruiter, fellow student, or someone with a cool problem to solve — my inbox is open.*
 
