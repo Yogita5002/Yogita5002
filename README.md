@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yogita 👋
 
-<!--
-**Yogita5002/Yogita5002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a focus on Java, Python and machine learning. Currently building projects around behavioral data, network systems, and interactive tools.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Digital Addiction Risk Predictor** — an ML model that predicts digital addiction risk in teenagers using behavioral, academic, and health data. Built with Python and scikit-learn.
+- **Quiz Leaderboard** — a Python application for tracking quiz scores and ranking participants.
+
+## Skills
+
+**Languages:** Python, Java, SQL  
+**Tools & Libraries:** scikit-learn, pandas, NumPy, Jupyter Notebook  
+**Other:** REST APIs, data preprocessing, classification models
+
+## Currently learning
+
+[Deep learning with TensorFlow,System design]
+
+## Connect with me
+
+[LinkedIn](www.linkedin.com/in/yogitayv) | [Email](yogitayv5002@gmail.com)
