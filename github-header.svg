@@ -1,0 +1,53 @@
+![Header](https://github.com/Yogita5002/Yogita5002/raw/main/github-header.svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yogitayv/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Yogita5002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="yogitayv5002@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>GitHub profile header for Yogita.Y.V</title>
+<desc>Dark purple banner with name, tagline, and tech tags: AI/ML, Java, Python</desc>
+
+<rect width="680" height="220" fill="#0D0618"/>
+<circle cx="580" cy="30" r="90" fill="#1A0A2E"/>
+<circle cx="100" cy="190" r="65" fill="#160826"/>
+<circle cx="340" cy="110" r="130" fill="#11062A"/>
+
+<rect x="520" y="8" width="130" height="130" rx="8" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.4"/>
+<rect x="532" y="20" width="106" height="106" rx="6" fill="none" stroke="#A855F7" stroke-width="0.5" opacity="0.2"/>
+<rect x="38" y="55" width="85" height="85" rx="6" fill="none" stroke="#7C3AED" stroke-width="0.5" opacity="0.35"/>
+<rect x="49" y="66" width="63" height="63" rx="4" fill="none" stroke="#A855F7" stroke-width="0.5" opacity="0.2"/>
+
+<circle cx="620" cy="170" r="3" fill="#A855F7" opacity="0.8"/>
+<circle cx="58" cy="38" r="2" fill="#C084FC" opacity="0.7"/>
+<circle cx="198" cy="18" r="1.5" fill="#A855F7" opacity="0.6"/>
+<circle cx="478" cy="195" r="2" fill="#7C3AED" opacity="0.7"/>
+<circle cx="652" cy="78" r="1.5" fill="#C084FC" opacity="0.5"/>
+<circle cx="28" cy="128" r="2.5" fill="#A855F7" opacity="0.5"/>
+<circle cx="308" cy="12" r="1.5" fill="#C084FC" opacity="0.6"/>
+<circle cx="398" cy="208" r="2" fill="#7C3AED" opacity="0.6"/>
+<circle cx="143" cy="48" r="1.5" fill="#A855F7" opacity="0.5"/>
+<circle cx="553" cy="140" r="1.5" fill="#C084FC" opacity="0.4"/>
+
+<line x1="150" y1="110" x2="530" y2="110" stroke="#7C3AED" stroke-width="0.5" opacity="0.15"/>
+
+<text x="340" y="82" font-family="'Segoe UI', system-ui, sans-serif" font-size="38" font-weight="700" fill="#F3E8FF" text-anchor="middle" letter-spacing="1">Yogita Y.V</text>
+
+<text x="340" y="112" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="400" fill="#C084FC" text-anchor="middle" letter-spacing="2.5">CS STUDENT  ·  ML ENTHUSIAST</text>
+
+<rect x="290" y="126" width="100" height="1.5" rx="1" fill="#7C3AED" opacity="0.5"/>
+<circle cx="285" cy="127" r="2" fill="#A855F7" opacity="0.7"/>
+<circle cx="395" cy="127" r="2" fill="#A855F7" opacity="0.7"/>
+
+<rect x="172" y="150" width="68" height="26" rx="13" fill="#2D1054" stroke="#7C3AED" stroke-width="0.8"/>
+<text x="206" y="167" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#C084FC" text-anchor="middle">AI / ML</text>
+
+<rect x="254" y="150" width="68" height="26" rx="13" fill="#1A0A3A" stroke="#6D28D9" stroke-width="0.8"/>
+<text x="288" y="167" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#A78BFA" text-anchor="middle">Python</text>
+
+<rect x="336" y="150" width="68" height="26" rx="13" fill="#1E0A3A" stroke="#7C3AED" stroke-width="0.8"/>
+<text x="370" y="167" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#C084FC" text-anchor="middle">Java</text>
+
+<rect x="418" y="150" width="90" height="26" rx="13" fill="#160830" stroke="#5B21B6" stroke-width="0.8"/>
+<text x="463" y="167" font-family="'Segoe UI', system-ui, sans-serif" font-size="12" font-weight="500" fill="#9F7AEA" text-anchor="middle">scikit-learn</text>
+</svg>
