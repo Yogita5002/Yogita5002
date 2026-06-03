@@ -26,11 +26,6 @@ I'm a third-year CS Engineering student who got genuinely curious about machine 
 ---
 
 ### 💡 How I Think
-
-```
-🔍 Find a real problem → 🧹 Clean the data → 🤖 Build a model → ❓ Question the output → 🔄 Improve
-```
-
 I start from the problem, not the algorithm. Getting a model to 90% accuracy is one thing — making it actually useful for someone is the harder, more interesting part.
 
 ---
@@ -67,33 +62,17 @@ I start from the problem, not the algorithm. Getting a model to 90% accuracy is 
 | Project | What it does | Why I built it | Tech |
 |---------|-------------|----------------|------|
 | [🧠 Digital Addiction Risk Predictor](https://github.com/Yogita5002/digital-addiction-risk-ml) | ML model that predicts digital addiction risk in teenagers using behavioral, academic, and health data | Wanted to see if real behavioral patterns could be captured in a model — and whether the output would actually be useful, not just numerically good | Python · scikit-learn · Jupyter |
+| [🔍 UPI Fraud Detection System](https://github.com/Yogita5002/upi-fraud-detection) | Full-stack tool that scores UPI transactions for fraud risk in real time — rule-based engine with 10 signals, 0–100 risk score, batch CSV import, and a live dashboard backed by PostgreSQL | Built for a fintech hackathon problem statement; wanted to go beyond a toy CRUD app and actually model how fraud screening works in production | Java 17 · Spring Boot · PostgreSQL · Docker · JavaScript |
 | [🏆 Quiz Leaderboard](https://github.com/Yogita5002/quiz-leaderboard) | Python app for tracking and ranking quiz scores across participants | Wanted a clean, functional project to practice Python logic and data handling end to end | Python |
 
 ---
 
 ### 📚 What I'm Learning
 
-🔹 **Deep learning fundamentals** — neural networks, backprop, and when to use them  
-🔹 **Data structures & algorithms** — prepping seriously for placements  
-🔹 **System design basics** — understanding how real software is structured at scale  
-🔹 **Model evaluation** — going beyond accuracy to precision, recall, and real-world fit  
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yogita5002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogita5002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogita5002&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak"/>
-
-</div>
+🔹 **Deep learning fundamentals** - neural networks, backprop, and when to use them  
+🔹 **Data structures & algorithms** - prepping seriously for placements  
+🔹 **System design basics** - understanding how real software is structured at scale  
+🔹 **Model evaluation** - going beyond accuracy to precision, recall, and real-world fit  
 
 ---
 
